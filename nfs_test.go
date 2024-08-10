@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	nfs "github.com/blacknon/go-nfs"
-	"github.com/blacknon/go-nfs/helpers"
-	"github.com/blacknon/go-nfs/helpers/memfs"
+	nfs "github.com/blacknon/go-nfs-sshlib"
+	"github.com/blacknon/go-nfs-sshlib/helpers"
+	"github.com/blacknon/go-nfs-sshlib/helpers/memfs"
 
 	nfsc "github.com/willscott/go-nfs-client/nfs"
 	rpc "github.com/willscott/go-nfs-client/nfs/rpc"

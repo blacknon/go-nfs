@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/blacknon/go-nfs/file"
+	"github.com/blacknon/go-nfs-sshlib/file"
 	"github.com/go-git/go-billy/v5"
 	"github.com/willscott/go-nfs-client/nfs/xdr"
 )

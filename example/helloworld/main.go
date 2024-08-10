@@ -7,8 +7,8 @@ import (
 	"github.com/go-git/go-billy/v5"
 	"github.com/go-git/go-billy/v5/memfs"
 
-	nfs "github.com/blacknon/go-nfs"
-	nfshelper "github.com/blacknon/go-nfs/helpers"
+	nfs "github.com/blacknon/go-nfs-sshlib"
+	nfshelper "github.com/blacknon/go-nfs-sshlib/helpers"
 )
 
 // ROFS is an intercepter for the filesystem indicating it should

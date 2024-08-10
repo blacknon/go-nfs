@@ -5,8 +5,8 @@ import (
 	"net"
 	"os"
 
-	nfs "github.com/blacknon/go-nfs"
-	nfshelper "github.com/blacknon/go-nfs/helpers"
+	nfs "github.com/blacknon/go-nfs-sshlib"
+	nfshelper "github.com/blacknon/go-nfs-sshlib/helpers"
 	osfs "github.com/go-git/go-billy/v5/osfs"
 )
 

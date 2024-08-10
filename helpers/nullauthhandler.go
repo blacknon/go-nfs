@@ -4,8 +4,8 @@ import (
 	"context"
 	"net"
 
+	"github.com/blacknon/go-nfs-sshlib"
 	"github.com/go-git/go-billy/v5"
-	"github.com/blacknon/go-nfs"
 )
 
 // NewNullAuthHandler creates a handler for the provided filesystem
