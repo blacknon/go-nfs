@@ -1,4 +1,5 @@
-module github.com/willscott/go-nfs
+// module github.com/willscott/go-nfs
+module github.com/blacknon/go-nfs // NOTE: オリジナルのバージョンがあがるまで、一時的にこれで利用する
 
 go 1.19
 
